@@ -30,8 +30,8 @@ public class EmployeeDatabase {
     /**
      * Returns the manager for the given employee.
      *
-     * @param employee
-     * @return
+     * @param employee s.
+     * @return s.
      */
     Employee findManager(final Employee employee) {
         Employee manager = null;
@@ -56,6 +56,7 @@ public class EmployeeDatabase {
         /*
          * Implement this function
          */
+        return 0;
     }
 
     /**
@@ -70,6 +71,7 @@ public class EmployeeDatabase {
         /*
          * Implement this function
          */
+        return 0;
     }
 
     /**

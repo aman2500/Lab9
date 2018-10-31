@@ -4,14 +4,15 @@
  * @see <a href="https://cs125.cs.illinois.edu/lab/9/">Lab 9 Description</a>
  */
 public class Employee {
-
+    /** qwerty */
     private String name;
+    /** qwerty */
     private String manager;
 
     /**
      * Constructor for initialization.
-     * @param name
-     * @param manager
+     * @param name s.
+     * @param manager s.
      */
     public Employee(final String name, final String manager) {
         this.name = name;
@@ -28,7 +29,7 @@ public class Employee {
 
     /**
      * Setter for name.
-     * @param name
+     * @param name .
      */
     public void setName(final String name) {
         this.name = name;
@@ -44,7 +45,7 @@ public class Employee {
 
     /**
      * Setter for manager.
-     * @param manager
+     * @param manager s.
      */
     public void setManager(final String manager) {
         this.manager = manager;
